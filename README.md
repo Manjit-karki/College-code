@@ -3,6 +3,28 @@
   Basic outputs for each new code will be put here as an image along with the codes beside it. 
 </p>
 
+
+<### Basic Arithmetic operations>
+
 <p align="center">
   <img src="outputs/output1.png" alt="output" width="600"/>
+</p>
+
+<### Basic Even Odd check>
+
+<p align="center">
+  <img src="outputs/output2.png" alr="output" width="600"/>
+</p>
+
+<### Simple Fibonacci sequence>
+
+<p align="center">
+  <img src="outputs/output3.png" alr="output" width="600"/>
+</p>
+
+
+<### Reverse String>
+
+<p align="center">
+  <img src="outputs/output4.png" alr="output" width="600"/>
 </p>
