@@ -1,5 +1,5 @@
 // INFO: Even Odd check
-
+// simple code
 
 import java.util.Scanner;
 

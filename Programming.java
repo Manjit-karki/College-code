@@ -1,5 +1,5 @@
 //INFO: Lab work: Abstraction
-
+// simple code
 
 import java.util.Scanner;
 

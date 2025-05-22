@@ -1,5 +1,5 @@
 //INFO: Reverse String 
-
+// simple code
 
 import java.util.Scanner;
 

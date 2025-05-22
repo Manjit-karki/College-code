@@ -1,4 +1,6 @@
 // INFO: Basic arithmetic:
+// simple code
+
 
 import java.util.Scanner;
 
