@@ -1,4 +1,3 @@
-
 //INFO: Lab work: Abstraction
 
 

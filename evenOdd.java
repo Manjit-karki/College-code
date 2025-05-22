@@ -1,4 +1,3 @@
-
 // INFO: Even Odd check
 
 

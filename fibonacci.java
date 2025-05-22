@@ -1,5 +1,7 @@
 //INFO: Simple Fibonacci sequence
 
+
+
 import java.util.Scanner;
 
 public class fibonacci {
