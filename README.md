@@ -35,3 +35,11 @@
 <p align="center">
   <img src="outputs/output5.png" alr="output" width="600"/>
 </p>
+
+
+### Java AWT Frame
+
+<p align="center">
+  <img src="outputs/output6.1.png" width="300"/>
+  <img src="outputs/output6.2.png" width="300"/>
+</p>
