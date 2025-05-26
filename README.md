@@ -40,6 +40,6 @@
 ### Java AWT Frame
 
 <p align="center">
-  <img src="outputs/output6.1.png" width="300"/>
-  <img src="outputs/output6.2.png" width="300"/>
+  <img src="outputs/output6.1.png" width="600"/>
+  <img src="outputs/output6.2.png" width="600"/>
 </p>
