@@ -1,7 +1,7 @@
 # Java codes
 
 <p align="center">
-  Basic java codes
+  Basic java codes. <br>
   This repo is the collection of all java codes starting from basics and moving up in difficulty as the course progresses.
   Basic outputs for each new code will be put here as an image along with the codes beside it. 
 </p>
