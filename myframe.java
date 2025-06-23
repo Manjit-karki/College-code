@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.JOptionPane;
 
-public class MyFrame {
+public class myframe {
 
   public static void main(String[] args) {
 
